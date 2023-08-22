@@ -1,0 +1,50 @@
+.container1{
+    display: flex;
+    background-color: #1F2937;
+    
+}
+
+.container2{
+    background-color: white;
+}
+
+.container3{
+    background-color: #E5E7EB;
+}
+
+.container4{
+    background-color: white;
+}
+
+header{
+    
+    color: white;
+}
+
+ul{
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    color: #f9faf9;
+    list-style: none;
+
+}
+
+
+.footer{
+   display: flex;
+}
+
+.head1{
+    font-weight: bolder;
+    font-size: 20px;
+    color: #f9faf8;
+}
+
+.head2{
+    background-color: #E5E7EB;
+    
+}
